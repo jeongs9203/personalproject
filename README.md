@@ -14,10 +14,3 @@
 |DB|MySQL|
 |Tools|Eclipse|
 |Language|JAVA, JSP, Javascript, CSS|
-
-# 📂 구현 기능
-## 게시판 기능 구현
-## 회원가입 기능 구현
-## 로그인 기능 구현
-## 스토어 기능 구현
-## 지도 기능 구현
